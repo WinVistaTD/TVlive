@@ -1,0 +1,69 @@
+{
+  "site": {
+    "avatar": "https://i.imgs.ovh/2026/01/16/yLdkK4.jpeg",
+    "nickname": "锐科工具箱",
+    "motto": "10+站长工具"
+  },
+  "categories": [
+    {
+      "name": "运维面板",
+      "icon": "https://www.bt.cn/static/new/images/logo.svg",
+      "tools": [
+        {
+          "name": "宝塔面板",
+          "icon": "https://www.bt.cn/static/new/images/logo.svg",
+          "url": "https://www.bt.cn/",
+          "desc": "宝塔面板(bt.cn) 简单好用的Linux/Windows服务器运维管理面板"
+        },
+        {
+          "name": "1Panel",
+          "icon": "https://1panel.cn/images/logo-blue.png",
+          "url": "https://1panel.cn/",
+          "desc": "1Panel - 现代化、开源的Linux服务器运维管理面板"
+        },
+        {
+          "name": "GMSSH",
+          "icon": "https://www.gm.cn/_nuxt/logo.AX434aXo.svg",
+          "url": "https://www.gm.cn/?ref=gmssh",
+          "desc": "新一代AI服务器运维系统"
+        },
+        {
+          "name": "AMH面板",
+          "icon": "https://free.boltp.com/2026/02/08/69882f79f0507.webp",
+          "url": "https://amh.sh/",
+          "desc": "国内领先的云主机面板"
+        },
+        {
+          "name": "InPanel",
+          "icon": "https://inpanel.org/images/hero.png",
+          "url": "https://inpanel.org",
+          "desc": "开源 Linux 服务器管理面板"
+        }
+      ]
+    },
+    {
+      "name": "域名",
+      "icon": "https://i.imgs.ovh/2026/02/06/yEdPFe.png",
+      "tools": [
+        {
+          "name": "ipv6转ip6.arpa",
+          "icon": "https://i.imgs.ovh/2026/02/06/yEdPFe.png",
+          "url": "https://ipv6.638966.online/",
+          "desc": "ipv6转ip6.arpa"
+        },
+        {
+          "name": "鸡享域",
+          "icon": "https://nic.lsdt.top/favicon.ico",
+          "url": "https://nic.lsdt.top/",
+          "desc": "鸡享域 - 免费域名 鸡享域 - 我不死，永免费！"
+        },
+        {
+          "name": "OSFC",
+          "icon": "http://registry.osfc.org.cn/logo.png",
+          "url": "http://registry.osfc.org.cn/",
+          "desc": "Free Domain Registration.Get your own domain from OSFC. Our mission is promoting Open Source & Free Code for everyone."
+        }
+      ]
+    }
+  ]
+}
