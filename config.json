@@ -59,7 +59,7 @@
         },
         {
           "name": "OSFC",
-          "icon": "http:         "icon": "https://nic.lsdt.top/f//registry.osfc.org.cn/logo.png",
+          "icon": "http://registry.osfc.org.cn/logo.png",
           "url": "http://registry.osfc.org.cn/",
           "desc": "Free Domain Registration.Get your own domain from OSFC. Our mission is promoting Open Source & Free Code for everyone."
         },
