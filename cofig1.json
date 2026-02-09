@@ -1,0 +1,21 @@
+{
+  "site": {
+    "avatar": "",
+    "nickname": "",
+    "motto": ""
+  },
+  "categories": [
+    {
+      "name": "默认",
+      "icon": "https://res.public.onecdn.static.microsoft/owamini/20260123.01/resources/images/ads-olk-icon.png",
+      "tools": [
+        {
+          "name": "asdf",
+          "icon": "https://res.public.onecdn.static.microsoft/owamini/20260123.01/resources/images/ads-olk-icon.png",
+          "url": "baidu.com",
+          "desc": "asdfg"
+        }
+      ]
+    }
+  ]
+}
